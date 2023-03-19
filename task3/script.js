@@ -112,7 +112,6 @@ function calc(a, b, op) {
     return result;
 }
 
-//console.log(calc(5,7,2));
 
 //7Напишіть функцію findUnique(arr), яка приймає масив arr і перевіряє на
 //унікальність його елементи. Якщо всі елементи масиву унікальні (не мають дублів),
@@ -125,4 +124,4 @@ function findUnique(arr) {
     return set.size === arr.length;
 }
 
-  //console.log(findUnique([1, 2, 3, 5, 3]));
+
