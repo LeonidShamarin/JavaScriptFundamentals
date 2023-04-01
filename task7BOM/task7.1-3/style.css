@@ -1,0 +1,11 @@
+@font-face {
+    font-family:Comic ;
+    src: url(./fonts/Comic\ Sans\ .ttf);
+}
+body {
+    background-color: white;
+}
+
+.taskseven >button{
+    margin: 5px;
+}
