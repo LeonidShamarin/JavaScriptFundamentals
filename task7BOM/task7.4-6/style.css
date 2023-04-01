@@ -1,0 +1,35 @@
+body {
+    margin: 50px;
+}
+
+
+
+select {
+    padding: 10px;
+    border-color: cornflowerblue;
+}
+
+button {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.live {
+    padding-top: 150px;
+}
+
+#myButton {
+    margin-left: -2px;
+}
+
+#onMe {
+    padding-top: 30px;
+}
+
+.window {
+    padding-top: 100px;
+}
+
+.textSize {
+    display: flex;
+}
